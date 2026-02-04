@@ -1,3 +1,5 @@
+[![Deploy static content to Pages](https://github.com/Nesa00/random-boulder/actions/workflows/static.yml/badge.svg)](https://github.com/Nesa00/random-boulder/actions/workflows/static.yml)
+
 # Boulder Randomizer
 
 A simple web-based randomizer for bouldering problems.
